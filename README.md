@@ -15,7 +15,7 @@ font-family: 'KCC PakKyongni';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCPakKyongni/KCCPakKyongni.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCPakKyongni/KCCPakKyongni.css" type="text/css"/>
 ```
 
 &nbsp;
